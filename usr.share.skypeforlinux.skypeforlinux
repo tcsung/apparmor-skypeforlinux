@@ -1,5 +1,5 @@
 # vim:syntax=apparmor
-# Author: Bozhin Zafirov <bozhin@abv.bg>
+# Author: Daniel Sung <tcsung_daniel@hotmail.com>
 
 #include <tunables/global>
 
